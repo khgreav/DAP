@@ -1,0 +1,6 @@
+## Interface: 110100
+## Title: DisableAddonProfiling
+## Notes: Disables addon profiling on login.
+## Version: v1.0.0
+
+core.lua
